@@ -1,3 +1,4 @@
 junk2
 This is a second line of the junk2 file
-
+this is a third line of the test2.txt file added from github
+a fourth line, blah blah blah
